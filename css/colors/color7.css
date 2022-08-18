@@ -1,0 +1,32 @@
+.top-navigation .navbar-nav li a.active,
+.top-navigation .navbar-nav li a:hover,
+.top-navigation a.dropdown-item:hover,
+.top-navigation .switch-language li a:hover,
+.menu-sidebar ul li a:hover,
+span.color-about,
+.infinite-icon,
+.social-icons li a:hover,
+.light-theme #about .social-icons li a:hover,
+#services i,
+#price i,
+#contact i,
+.client-item .fa-star,
+.line,
+.prising-wrapper .prising,
+.card p a {
+    color: #ffa500;
+}
+
+.owl-dot span,
+.owl-dot.active span,
+.btn-form,
+.work-nav a.active,
+.work-nav a:hover,
+.focus-border:before,
+.focus-border:after {
+    background-color: #ffa500;
+}
+
+.top-navigation a.dropdown-item:hover {
+    color: #ffa500 !important;
+}
